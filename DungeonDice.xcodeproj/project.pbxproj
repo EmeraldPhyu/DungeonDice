@@ -11,6 +11,7 @@
 		CB0408792CCA522C00B01AF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB0408782CCA522C00B01AF8 /* ContentView.swift */; };
 		CB04087B2CCA522F00B01AF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB04087A2CCA522F00B01AF8 /* Assets.xcassets */; };
 		CB04087E2CCA522F00B01AF8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB04087D2CCA522F00B01AF8 /* Preview Assets.xcassets */; };
+		CB86333B2CEDABFC00E872EA /* ButtonLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB86333A2CEDABFC00E872EA /* ButtonLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		CB0408782CCA522C00B01AF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		CB04087A2CCA522F00B01AF8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB04087D2CCA522F00B01AF8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CB86333A2CEDABFC00E872EA /* ButtonLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				CB0408762CCA522C00B01AF8 /* DungeonDiceApp.swift */,
 				CB0408782CCA522C00B01AF8 /* ContentView.swift */,
+				CB86333A2CEDABFC00E872EA /* ButtonLayout.swift */,
 				CB04087A2CCA522F00B01AF8 /* Assets.xcassets */,
 				CB04087C2CCA522F00B01AF8 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB86333B2CEDABFC00E872EA /* ButtonLayout.swift in Sources */,
 				CB0408792CCA522C00B01AF8 /* ContentView.swift in Sources */,
 				CB0408772CCA522C00B01AF8 /* DungeonDiceApp.swift in Sources */,
 			);
